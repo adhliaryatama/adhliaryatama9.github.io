@@ -1,6 +1,12 @@
-*{
-    padding: 0;
-    margin: 0;
-    text-decoration: none;
-    list-style: none;
+
+body {
+    font-family: 'oswald', Arial, Helvetica, sans-serif;
 }
+.portopolio, .about, .contact{
+    min-height: 500px;
+}
+.jumbotron, .portopolio {
+    background-color: #eee;
+}
+
+
