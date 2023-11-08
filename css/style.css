@@ -8,5 +8,13 @@ body {
 .jumbotron, .portopolio {
     background-color: #eee;
 }
+nav {
+    position: fixed !important;
+    width: 100%;
+}
+.jumbotron {
+    padding-top: 100px;
+    box-sizing: border-box;
+}
 
 
